@@ -86,13 +86,6 @@ A disaster-preparedness app concept focused on helping users prepare for and res
 
 ---
 
-### 🎮 Feel The Power Esports
-*Content strategy · Creative design*
-
-Contributed promotional content and creative concepts for an esports brand's tournament communication and audience outreach.
-
----
-
 ## 🎓 Education
 
 **B.Tech — Computer Science & Engineering (AI & ML)**
