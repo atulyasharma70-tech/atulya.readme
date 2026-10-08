@@ -1,102 +1,82 @@
 <div align="center">
 
-Hi, I'm Atulya 👋
+👋 Hi, I'm Atulya
 
-B.Tech CSE (AI & ML) Student • Aspiring Software Developer • AI/ML Enthusiast
+B.Tech CSE (AI & ML) Student | Aspiring Software Developer | AI/ML Enthusiast
 
 <p>
   <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=for-the-badge&logo=github&logoColor=white" alt="GitHub Followers"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=0e75b6" alt="Profile Views"/>
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
 
-<img src="assets/ai-ml-banner.png" alt="AI/ML banner" width="100%"/>
+<img src="./assets/ai-ml-banner.png" alt="AI/ML themed banner" width="100%"/>
 
 </div>
 
-🚀 About Me
+🧑‍💻 About Me
 
-I'm a Computer Science & Engineering student specializing in Artificial Intelligence and Machine Learning, passionate about understanding technology and turning what I learn into practical projects.
+I'm a B.Tech Computer Science & Engineering student specializing in Artificial Intelligence and Machine Learning.
 
-I enjoy working across programming, data structures & algorithms, AI/ML, software concepts, and user-focused technology. My current goal is to keep building strong fundamentals, improve through hands-on projects, and grow into a professional software/AI developer.
+I enjoy learning how software and intelligent systems work and turning what I learn into practical projects. My current focus is building strong foundations in Python, C, Data Structures & Algorithms, Artificial Intelligence, Machine Learning, and core Computer Science.
 
-🎓 B.Tech — Computer Science & Engineering (AI & ML)
+I learn best by building, experimenting, solving problems, and improving projects step by step.
 
-🏫 Supreme Knowledge Foundation Group of Institutions
+🎯 Currently focused on
 
-🎯 University: Maulana Abul Kalam Azad University of Technology (MAKAUT), West Bengal
+🤖 Artificial Intelligence & Machine Learning
 
-🤖 Interested in Artificial Intelligence & Machine Learning
+🐍 Python and C programming
 
-💻 Practicing C, Python, DSA & problem solving
+🧠 Data Structures, Algorithms & problem solving
 
-🛠️ Learning through GitHub, coursework and practical projects
+💻 Software development fundamentals
 
-🌱 Currently focused on becoming a stronger developer and AI/ML practitioner
+🔧 Git, GitHub and project-based learning
 
-🧠 What I'm Learning
+🛠️ Tech Stack
 
-Artificial Intelligence     ███████████████░░░
-Machine Learning             ██████████████░░░░
-Python                       ██████████████░░░░
-Data Structures & Algorithms █████████████░░░░░
-C Programming                ████████████░░░░░░
-Git & GitHub                 █████████████░░░░░
-HCI / UI-UX                  ██████████░░░░░░░░
-
-These bars represent my current learning focus, not formal proficiency ratings.
-
-🧰 Tech Stack
-
-Languages
+Programming
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,c" alt="Python and C"/>
 </p>
 
-AI / ML & Computer Science
-
-<p>
-  <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow"/>
-  <img src="https://img.shields.io/badge/Machine%20Learning-111827?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Machine Learning"/>
-  <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-111827?style=for-the-badge&logo=codeforces&logoColor=white" alt="DSA"/>
-</p>
-
-Tools
+Tools & Development
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, GitHub and VS Code"/>
 </p>
 
-📚 Core Computer Science Interests
+Areas of Interest
 
-Artificial Intelligence · Machine Learning · Data Structures · Algorithms · Problem Solving
+<p>
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-111827?style=for-the-badge&logo=openai&logoColor=white" alt="Artificial Intelligence"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-111827?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning"/>
+  <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-111827?style=for-the-badge&logo=thealgorithms&logoColor=white" alt="Data Structures and Algorithms"/>
+  <img src="https://img.shields.io/badge/HCI%20%2F%20UI--UX-111827?style=for-the-badge&logo=figma&logoColor=white" alt="HCI UI UX"/>
+</p>
 
-Operating Systems · Computer Organization · Human-Computer Interaction · Optimization Techniques · Software Development
-
-🔥 Featured Projects
+🚀 Projects
 
 🛡️ SafeTrax — Disaster Preparedness App
 
-A disaster-preparedness application concept focused on helping users prepare for and respond to emergency situations.
+A disaster-preparedness app concept designed around helping users prepare for and respond to emergency situations.
 
-Focus: HCI • User-centered design • Disaster preparedness • App concept
+Focus: Disaster preparedness • HCI • User-centered design • App concept
 
 🎮 FEEL THE POWER ESPORTS
 
-A gaming/esports digital project involving tournament promotion, branding, and user-facing promotional content.
+A gaming/esports digital project involving tournament communication, promotional content and branding.
 
-Focus: Esports • Digital content • Branding • Tournament communication
+Focus: Esports • Digital content • Branding • Tournament promotion
 
-💻 Academic & Practice Projects
+💻 Academic & Practice Work
 
-Hands-on learning across:
+My learning and coursework cover:
 
 Data Structures & Algorithms
 
@@ -108,82 +88,72 @@ Operating Systems
 
 Computer Organization
 
-Optimization
+Optimization Techniques
 
 Human-Computer Interaction
 
-Add your individual repository links above as your projects become public.
+Project repositories will be added here as they are published.
 
-📊 GitHub Analytics
+🎓 Education
 
-<div align="center">
+Bachelor of Technology — Computer Science & Engineering (Artificial Intelligence & Machine Learning)
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180" alt="GitHub Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages"/>
+Supreme Knowledge Foundation Group of Institutions
+Maulana Abul Kalam Azad University of Technology (MAKAUT), West Bengal
 
-<br/>
+Relevant coursework: Artificial Intelligence • Machine Learning • Data Structures & Algorithms • Operating Systems • Computer Organization • Optimization Techniques • Human-Computer Interaction • C Programming
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+📌 Core Skills
 
-</div>
+Python C Data Structures Algorithms Problem Solving
+Artificial Intelligence Machine Learning Git GitHub HCI UI/UX
 
-🏆 GitHub Achievements
+📊 GitHub
 
-<div align="center">
+This README intentionally avoids the broken live-stat widgets from the previous version.
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub Trophies"/>
+Once your GitHub username is added below, you can safely enable live GitHub stats:
 
-</div>
+GITHUB_USERNAME = YOUR_GITHUB_USERNAME
+LINKEDIN_URL    = YOUR_LINKEDIN_URL
 
-📈 Contribution Graph
+Optional live stats
 
-<div align="center">
+After replacing the username, these can be added:
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
 
-</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
 
-🐍 Contribution Snake
+🎯 Goals
 
-<div align="center">
+Build strong foundations in AI/ML and software development
 
-<!-- Enable the snake workflow in your repository to make this image work. -->
+Create useful and practical projects
 
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
+Improve DSA and problem-solving
 
-</div>
+Contribute to open-source projects
 
-🎯 2026 Goals
+Prepare for AI/ML and software development internships
 
-Strengthen Python, C, DSA and problem-solving
+Keep learning and building consistently
 
-Build more practical AI/ML projects
+🤝 Connect With Me
 
-Improve software development and Git/GitHub workflow
-
-Create projects that solve useful real-world problems
-
-Grow a strong portfolio for internships and entry-level opportunities
-
-🤝 Let's Connect
-
-<div align="center">
-
-<a href="https://www.linkedin.com/">
-  <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-
-</div>
+<p>
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
 
 <div align="center">
 
 💡 Learn • Build • Improve • Innovate
 
-Thanks for visiting my profile! ⭐
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=100&section=footer" alt="Footer"/>
+⭐ Thanks for visiting my profile!
 
 </div>
